@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tickshunter
 - 👀 I’m interested in Python, C++, PHP.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning in: The Odin Project.
 - // 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: douglasbonilla@gmail.com
 
